@@ -35,13 +35,6 @@ My work spans from AI-powered full-stack apps to robust backend systems.
 
 ---
 
-### 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=diggiex47&show_icons=true&theme=tokyonight" />
-</p>
-
----
 
 ### 📫 Let’s Connect
 
