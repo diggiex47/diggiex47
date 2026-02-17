@@ -59,12 +59,6 @@ Built for **scalability, reliability, and clean architecture**.
 
 ---
 
-<p align="center">
-  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=diggiex47&show_icons=true&theme=tokyonight" />
-  <br/>
-  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=diggiex47&layout=compact&theme=tokyonight" />
-</p>
----
 
 ### 📫 Connect With Me
 
