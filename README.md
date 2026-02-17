@@ -1,4 +1,4 @@
-<h1 align="center">Hey there, I'm Digvijay 👋</h1>
+<h1 align="center">Hi 👋, I'm Digvijay Singh</h1>
 
 <p align="center">
   Backend-focused Full-Stack Developer • Type-Safe Architectures • Scalable Web Apps
@@ -7,38 +7,77 @@
 ---
 
 ### 💡 About Me
-I build **real, production-ready applications** with emphasis on clean design, type safety, and scalable architecture.  
-My work spans from AI-powered full-stack apps to robust backend systems.
+I build **real, production-ready applications** with strong focus on:
+
+- Clean backend architecture  
+- End-to-end type safety  
+- AI-powered full-stack products  
+- Scalable and maintainable systems  
+
+Currently exploring **cloud deployment, performance optimization, and system design**.
 
 ---
 
-### 🛠 Tech I Use
+### 🛠 Tech Stack
 
-<p align="center">
-  <code>TypeScript</code> • <code>Go</code> • <code>C++</code> • <code>React</code> • <code>Next.js</code> • <code>Prisma</code> • <code>tRPC</code> • <code>Zod</code>
+#### Languages
+<p>
+  <img src="https://skillicons.dev/icons?i=ts,js,cpp,go,python" />
+</p>
+
+#### Frontend & Full-Stack
+<p>
+  <img src="https://skillicons.dev/icons?i=react,nextjs,html,css" />
+</p>
+
+#### Backend, Auth & Data
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs,postgres,mysql" />
+</p>
+
+#### Tools & Environment
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,linux" />
 </p>
 
 ---
 
 ### 📌 Featured Projects
 
-#### 🔗 AI Career Counselor
-*AI-driven chat interface with type-safe backend and persistent auth.*  
-**Stack:** Next.js • tRPC • Prisma • NextAuth • Gemini API  
-🔗 Live: https://career-counselor-ai.vercel.app/
+#### 🤖 AI Career Counselor
+AI-powered real-time chat app with **type-safe backend and persistent authentication**.  
+**Stack:** Next.js • TypeScript • tRPC • Prisma • NextAuth • Gemini API  
 
-#### 🛒 Full-Stack E-Commerce
-*Secure, end-to-end typed commerce platform with seamless UX.*  
-**Stack:** Next.js • TypeScript • OAuth • Server Components
-
-*(More projects pinned below 👇)*
+🔗 Live: https://career-counselor-ai-one.vercel.app/  
+🔗 Repo: https://github.com/diggiex47/career-counselor-ai  
 
 ---
 
+#### 🛒 Full-Stack E-Commerce Platform
+Secure end-to-end typed commerce system with **OAuth auth and optimized data fetching**.  
+Built for **scalability, reliability, and clean architecture**.
 
-### 📫 Let’s Connect
+---
+
+### 📈 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=diggiex47&show_icons=true&theme=tokyonight" />
+  <br/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=diggiex47&layout=compact&theme=tokyonight" />
+</p>
+
+---
+
+### 📫 Connect With Me
 
 <p align="center">
   <a href="https://linkedin.com/in/digvijayxsingh">LinkedIn</a> •
   <a href="mailto:digvijaysinghx47@gmail.com">Email</a>
+</p>
+
+---
+
+<p align="center">
+  Building quietly. Scaling steadily. 🚀
 </p>
